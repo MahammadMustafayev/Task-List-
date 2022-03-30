@@ -13,9 +13,9 @@ namespace CustomList.Models
             customList.Add(54);
             customList.Add(123);
 
-            //Console.WriteLine(customList.Count);
+            Console.WriteLine(customList.Count);
             //Console.WriteLine("------------------");
-            customList.Exist(23);
+            //customList.Exist(23);
             //customList.Show();
             //customList.Clear();
             //customList.IndexOf(1);
